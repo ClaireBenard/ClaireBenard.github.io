@@ -61,8 +61,9 @@ _Most of my blogs talk about data in the charity sector, ethics and strategy._
 
 ## Projects
 
-**Project 1 Title**  
-_This project has an overall goal. This is the method that's employed and the data that's used. The one sentence conclusion is that the project concludes something_
+**Charity classifier**  
+_When registering with the Commission, charities must declare their sector of activity. This is a tick box with 16 options. Due to the nature of the sector, most organisations tick at least 2, and some as many as all 16 boxes._
+_This attempts to classify organisations based on their charitable object, their legal definition of their activity. Given the wording of their object, the model returns the most likely sector of activity._
 
-**Project 2 Title**  
-_This project has an overall goal. This is the method that's employed and the data that's used. The one sentence conclusion is that the project concludes something_
+[Check out the code](https://github.com/ClaireBenard/charity-classifier)
+
