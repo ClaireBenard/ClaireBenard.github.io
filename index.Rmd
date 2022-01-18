@@ -17,7 +17,7 @@ output:
 I'm a data scientist, keen to use data to solve problems that matter. My earlier work experience was in national and international charities and although I'm now a consultant, I still volunteer for [DataKind UK](https://datakind.org.uk/).  
 
 
-```{r, echo=FALSE, warning=F, message=F, out.width="60%", fig.height=2}
+```{r, echo=FALSE, warning=F, message=F, out.width="60%", out.height="25%"}
 library(tidyverse)
 library(plotly)
 
