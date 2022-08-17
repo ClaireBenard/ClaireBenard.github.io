@@ -35,5 +35,5 @@ _Most of my blogs talk about data in the charity sector, ethics and strategy._
 _When registering with the Commission, charities must declare their sector of activity. This is a tick box with 16 options. Due to the nature of the sector, most organisations tick at least 2, and some as many as all 16 boxes._
 _This work attempts to classify organisations based on the legal definition of their activity (their charitable object). Given the wording of their object, the model returns the most likely sector of activity._
 
-
-
+**Predicting waste to reduce it** | [Check out the code](https://github.com/darenasc/data_world_league_2022/blob/main/notebooks/k-nearest-teammates-submission-nb.ipynb)  
+_This project was the first phase of the [World Data League](https://www.worlddataleague.com) competition. We analysed trends in waste production to help understand how to reduce it and how to optimise waste collection._
